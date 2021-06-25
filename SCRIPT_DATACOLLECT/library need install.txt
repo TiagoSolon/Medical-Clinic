@@ -1,4 +1,0 @@
-pip install 
-azure-storage-blob==0.37.1
-pandas
-selenium
